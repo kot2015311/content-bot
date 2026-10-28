@@ -1,0 +1,7 @@
+aiogram>=3.31,<4
+faster-whisper>=1.2
+python-dotenv>=1.0
+# нейросети: нужна только та, что выбрана в .env, но ставим все, их немного
+anthropic>=2.3
+gigachat>=0.2
+openai>=1.0
